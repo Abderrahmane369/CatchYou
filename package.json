@@ -19,6 +19,7 @@
         "build": "vite build --config vite/config.prod.mjs"
     },
     "devDependencies": {
+        "phaser3_gui_inspector": "^1.2.1",
         "terser": "^5.31.0",
         "vite": "^5.3.1"
     },
